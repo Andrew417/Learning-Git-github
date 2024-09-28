@@ -48,7 +48,9 @@ In summary, the push system is proactive, producing or working ahead of demand, 
 >**git pull origin master:** Retrieves the latest changes from a remote repository (usually called "origin") and merges them into your local working copy.
 1. **git pull**: This is the main command that initiates the pulling process.
 2. **origin**: This specifies the name of the remote repository you want to pull from. By default, the remote repository is named "origin" when you clone a repository.
-3. **master**: This indicates the specific branch in the remote repository that you want to pull from. In this case, you're pulling from the "master" branch.
+3. **master**: This indicates the specific branch in the remote repository that you want to pull from. In this case, you're pulling from the "master" branch.  
+
+>**you can only push 1 branch at a time**
 
 
 # Deleting Remote Branches
