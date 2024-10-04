@@ -52,3 +52,4 @@ This is our git project will look like:
 
 > * **git merge *branchname*:** for merging branches to the desired branch  
 
+>* **git rebase:** Git rebase is a powerful command that allows you to rewrite the history of your Git branch by moving its commits onto another branch. This can be useful for cleaning up your commit history, making it more linear, or incorporating changes from another branch without merging.
